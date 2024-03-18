@@ -1,0 +1,12 @@
+---
+title: "Jagpreet Singh"
+---
+
+
+My name is Jagpreet Singh, I am a part-time undergrad student at University of Toronto majoring in Economics. I have 7 years of experience in the financial industry in various progressive roles. My most recent role was that of a Business Analyst at Burgundy Asset Management.
+
+
+
+```{r}
+1 + 1
+```
